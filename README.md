@@ -1,2 +1,0 @@
-# struttdati
-Strutture Dati
